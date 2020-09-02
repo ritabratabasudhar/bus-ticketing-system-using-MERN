@@ -1,0 +1,19 @@
+#confirmPage{
+  background-image: url(../img/image.jpg);
+  background-size: cover;
+  height:120vh;
+  background-position: center;
+  width: 100%;
+}
+#ticketContent{
+    border: 1px solid black;
+    margin-top: 100px;
+    width: 350px;
+    background-color: chocolate;
+    text-align: left;
+    padding: 20px;
+    margin-left: 20px;
+}
+.tickets{
+    display: inline-block;
+}

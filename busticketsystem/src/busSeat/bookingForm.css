@@ -1,0 +1,79 @@
+
+
+    .icon {
+       background: transparent;
+       border: none;
+       width: 35px;
+       height: 35px;
+       margin: 0px;
+       padding: 0px;
+       font-size: 20px;
+       color:white
+    }
+ 
+ .form1 {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+       "Helvetica Neue", Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5;
+ }
+
+.fieldset {
+       margin: 0;
+       padding: 0.35em 0 0.75em;
+       border: 0;
+}
+
+.field {
+        margin-bottom: 0.5em;
+        box-sizing: border-box;
+       }
+
+.field label {
+             text-align: right;
+             display: inline-block;
+             vertical-align: middle;
+             margin: 0 1em 0 0;
+             width: 250px;
+             text-align: center;
+      }
+
+.field input {
+         padding: 0.5em 0.6em; 
+             display: inline-block;
+             border: 1px solid #ccc;
+             box-shadow: inset 0 1px 3px #ddd;
+             border-radius: 4px;
+             vertical-align: middle;
+             box-sizing: border-box;
+             width: 400px;
+          }
+
+.form button {
+       background-color: #0078e7;
+       color: #fff;
+       border: 1px solid #999;
+       border-radius: 2px;
+       font-size: 15px;
+     
+ }
+   
+ .updating {
+    animation: blinking 1s infinite;
+ }
+ .info {
+    width : 100%;
+    background-color: dodgerblue;
+    color : white;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+    text-align: center;
+    padding : 10px;
+    display: inline-flex;
+ }
+ 

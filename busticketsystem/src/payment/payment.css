@@ -1,0 +1,31 @@
+ input{
+ 
+ border: 2px solid red;
+ width: 10px;
+ 
+}
+#payment{
+    background-image: url(../img/card.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#mainPayment{
+    padding: 50px;
+    height: 100%;
+    position: fixed;
+
+    border: 2px solid black;
+}
+#formsection{
+    border: 2px solid black;
+    height: 1000%;
+    background-color: goldenrod;
+}
+#priceSection{
+    margin-left: 100px;
+    margin-top: 100px;
+    
+}
+
+   

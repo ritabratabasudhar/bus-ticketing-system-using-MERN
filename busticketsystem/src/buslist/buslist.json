@@ -1,0 +1,42 @@
+[{
+    "busno":"CB10",
+    "from":"chennai",
+    "to":"bengaluru",
+    "time":"07.40 AM",
+    "price":"500"
+},
+{
+    "busno":"CB12",
+    "from":"chennai",
+    "to":"bengaluru",
+    "time":"10.40 AM",
+    "price":"50"
+},
+{
+    "busno":"KC10",
+    "from":"kolkata",
+    "to":"chennai",
+    "time":"04.55 PM",
+    "price":"400"
+},{
+    "busno":"CK10",
+    "from":"chennai",
+    "to":"kolkata",
+    "time":"12.40 PM",
+    "price":"200"
+},
+{
+    "busno":"CV10",
+    "from":"chennai",
+    "to":"vizag",
+    "time":"07.40 PM",
+    "price":"100"
+},
+{
+    "busno":"KC20",
+    "from":"kolkata",
+    "to":"chennai",
+    "time":"11.40 AM",
+    "price":"100"
+}
+]

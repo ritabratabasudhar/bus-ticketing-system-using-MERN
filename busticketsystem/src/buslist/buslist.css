@@ -1,0 +1,17 @@
+#buslist{
+    background-image: url(../img/image.jpg);
+    background-size: cover;
+    height:120vh;
+    background-position: center;
+    width: 100%;
+    
+  }
+  table{
+      border: 2px solid black;
+      background-color: rgb(172, 71, 25);
+      border-bottom: 1px solid black;
+      opacity: 0.9;
+
+  }tr{
+      border: 1px solid black;
+  }
